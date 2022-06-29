@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SavaPractical</string>
+
+    <string name="device_list">Device List</string>
+    <string name="connect">Connect</string>
+    <string name="download_logged_data">Download Logged Data</string>
+    <string name="download">Download</string>
+    <string name="timeout">Download data timeout</string>
+    <string name="timeout_second">Timeout: No data received in last second</string>
+    <string name="enable_location_permission">Enble Location Permission</string>
+    <string name="enable_location_setting">Enble Location Setting</string>
+    <string name="ok">Ok</string>
+    <string name="progress_connecting">Connecting...</string>
+    <string name="alert_scan_fail">Scan fail, Please try again.</string>
+    <string name="alert_enable_bluetooth">Please enable bluetooth.</string>
+    <string name="alert_device_disconnected">Device disconnected.</string>
+    <string name="alert_characteristic_not_found">characteristic not found.</string>
+    <string name="alert_service_not_found">service not found.</string>
+    <string name="alert_descriptor_not_found">descriptor not found.</string>
+</resources>
